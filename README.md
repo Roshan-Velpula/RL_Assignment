@@ -15,7 +15,7 @@ An implementation of two agents using Reinforcement Learning algorithms in a sim
 Both agents performaned considerably and well able to exceed a score of 1000 in the game (in reality trained in a max score of 7000 setting). The expected SARSA agent showed less variance in scoring abilities at convergence (see below). Detailed comparisons can be found in the attached notebook and report.
 
 
-![My Image](models_results/QL-scores.jpg)
+![My Image](https://github.com/Roshan-Velpula/RL_Assignment/blob/main/model_results/QL-scores.jpg)
 
 ![My Image](models_results/ES-scores.jpg)
 
