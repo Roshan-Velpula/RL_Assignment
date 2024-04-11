@@ -17,5 +17,5 @@ Both agents performaned considerably and well able to exceed a score of 1000 in 
 
 ![My Image](https://github.com/Roshan-Velpula/RL_Assignment/blob/main/model_results/QL-scores.jpg)
 
-![My Image](models_results/ES-scores.jpg)
+![My Image](https://github.com/Roshan-Velpula/RL_Assignment/blob/main/model_results/ES-scores.jpg)
 
